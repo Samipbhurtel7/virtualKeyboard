@@ -3,6 +3,12 @@
 ## Interaction styles assignment.
 
 
+## Requirements 
+### Python 3.6
+### Opencv 3.3.1
+### Numpy
+### pyautogui
+
 
 Team members - Nayan Adhikari,
                Pooja Chaudhary,
