@@ -36,7 +36,7 @@ while(1):
     
     cv2.imshow("mask",mask)
     #find contours in frame
-    _,contours, hierarchy = cv2.findContours(mask,cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_SIMPLE)
+    contours, hierarchy = cv2.findContours(mask,cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_SIMPLE)
     
             
     #function to determine which key is pressed based on the center of the contour(yellow paper)
