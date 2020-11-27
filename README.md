@@ -10,6 +10,4 @@
 ### pyautogui
 
 
-Team members - Nayan Adhikari,
-               Pooja Chaudhary,
-               Samip Bhurtel,
+By: Samip Bhurtel.
